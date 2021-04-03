@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Jean Michael Connory, a software developer from Brazil 
+### Hi there 👋, I'm Jean Michael Connory, a software developer from Brazil
 
 A little about me:
 
 - 🏢 I’m currently working on Fortaleza City Hall
-- 🐍 I’m currently learning Angular
+- 🛡 I’m currently learning Angular
 - 📫 How to reach me: michaelrhcp@gmail.com
 
 ### And That's my activity
