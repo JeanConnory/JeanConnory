@@ -3,7 +3,7 @@
 A little about me:
 
 - 🏢 I’m currently working on Fortaleza City Hall
-- 🛡 I’m currently learning Angular, SignalR and Xamarin
+- 🛡 I’m currently learning Angular, SignalR, Blazor and Xamarin
 - 📫 How to reach me: michaelrhcp@gmail.com
 
 ### And That's my activity
