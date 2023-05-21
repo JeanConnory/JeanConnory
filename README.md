@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Jean Michael Connory, a software developer from Brazil
+### Hi there 👋, my name is Jean Michael Connory
 
-A little about me:
+👨‍💻 .Net Developer and tech lead at Fortaleza City Hall
+
+About me
 
 - 🏢 I’m currently working on Fortaleza City Hall
 - 🛡 I’m currently learning Angular, SignalR, Blazor and Xamarin
