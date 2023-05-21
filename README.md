@@ -1,13 +1,30 @@
-### Hi there 👋, my name is Jean Michael Connory
+# Hi there, my name is Jean Michael Connory!
 
-👨‍💻 .Net Developer and tech lead at Fortaleza City Hall
+👨🏻‍💻 .Net Developer and tech lead at Fortaleza City Hall
 
-About me
+## About
+I am a .Net Developer, in love with the tech area and passionate about solving problems.
 
-- 🏢 I’m currently working on Fortaleza City Hall
-- 🛡 I’m currently learning Angular, SignalR, Blazor and Xamarin
-- 📫 How to reach me: michaelrhcp@gmail.com
+I have experiencie with the following technologies and patterns:
+- .Net Core and .Net Framework;
+- Angular;
+- Blazor;
+- TypeScript;
+- PostgreSQL, MySQL and SQL server;
+- Rest APIs;
+- Azure;
+- MAUI and Xamarin;
+- Git and GitFlow;
+- Jira and Scrum;
 
-### And That's my activity
+I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
+I have experience in developing following the S.O.L.I.D, Clean Architecture, Clean Code, DDD and TDD principles.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanConnory)](https://github.com/anuraghazra/github-readme-stats)
+I love challenges and I want to grow professionally every single day.
+
+### Contact:
+<div> 
+  <a href="[https://www.linkedin.com/in/erick-scur-1044a5191/](https://www.linkedin.com/in/jean-connory-66182121/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <br> <br>
+<div>
