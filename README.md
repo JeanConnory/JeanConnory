@@ -5,16 +5,16 @@
 ## About
 I am a .Net Developer, in love with the tech area and passionate about solving problems.
 
-I have experiencie with the following technologies and patterns:
-- .Net Core and .Net Framework;
-- Angular;
+I have experiencie with the following technologies:
+- Asp.Net and Asp.Net Core (WebForms, MVC);
 - Blazor;
+- Angular;
 - TypeScript;
 - PostgreSQL, MySQL and SQL server;
 - Rest APIs;
-- Azure;
 - MAUI and Xamarin;
 - Git and GitFlow;
+- Microsoft Azure;
 - Jira and Scrum;
 
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
